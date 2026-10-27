@@ -20,6 +20,17 @@
 
   <br/><br/>
 
+  <!-- Language Quick Jump Navigation -->
+  <a href="#-versión-en-español">
+    <img src="https://img.shields.io/badge/Leer_en-Espa%C3%B1ol_%E2%96%BC-007ACC?style=for-the-badge&logo=google-translate&logoColor=white" alt="Español" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="#-english-version">
+    <img src="https://img.shields.io/badge/Read_in-English_%E2%96%BC-E05D44?style=for-the-badge&logo=google-translate&logoColor=white" alt="English" />
+  </a>
+
+  <br/><br/>
+
   [![GitHub Followers](https://img.shields.io/github/followers/UNKNOWN432HZ?style=for-the-badge&logo=github&color=21262d&labelColor=0d1117)](https://github.com/UNKNOWN432HZ)
   [![Repositories](https://img.shields.io/badge/Repositories-Public-blue?style=for-the-badge&logo=git&color=21262d&labelColor=0d1117)](https://github.com/UNKNOWN432HZ?tab=repositories)
   [![Focus](https://img.shields.io/badge/Focus-Web_%26_GPU_Shaders-brightgreen?style=for-the-badge&color=21262d&labelColor=0d1117)]()
@@ -27,6 +38,12 @@
 </div>
 
 ---
+
+<div id="-versión-en-español" align="center">
+
+# 🇪🇸
+
+</div>
 
 ## 👤 Sobre Mí
 
@@ -111,9 +128,100 @@ Soy un apasionado desarrollador de software y constructor de sistemas dedicado a
 
 ---
 
+<br/>
+
+<div id="-english-version" align="center">
+
+# EN
+
+</div>
+
+## 👤 About Me
+
+> *“Technology finds its true purpose when it eliminates friction, empowers individuals, and opens new frontiers for what we can build together.”*
+
+I am a passionate software developer and systems builder dedicated to crafting high-utility web applications, scalable client-side tooling, and exploring visual computing. My focus has shifted toward building robust, accessible software solutions, contributing to the open-source community, and researching innovative architectures in computer graphics and GPU shaders.
+
+- 🔭 **Current Focus**: Modern full-stack & offline-first web apps, developer utility platforms, and shader pipeline optimization.
+- 💡 **R&D Interest**: Proposing unified, low-overhead GPU shader architectures for enhanced real-time compute efficiency.
+- 🌐 **Ecosystem**: Active contributor to open software, modular frameworks, and collaborative digital solutions.
+- ⚡ **Philosophy**: *Build with intention, optimize with curiosity, share without friction.*
+
+---
+
+## 💡 Core Pillars
+
+| 🌐 Modern Web & PWAs | ⚡ Visual Computing & Shaders | 🛠️ Systems & Toolsmithing | 🤝 Open Collaboration |
+| :--- | :--- | :--- | :--- |
+| Responsive, reactive architectures using React, Next.js, and TypeScript with offline-first local state sync. | Researching shader pipelines, compute pass scheduling, and hardware-software synergy in graphics. | Developing lightweight, zero-bloat developer utilities with client-side execution and maximum privacy. | Building open-source software, transparent technical documentation, and community-driven tools. |
+
+---
+
 <div align="center">
 
-## 🛠️ **Stack Tecnológico**
+## 🗂️ **Featured Projects**
+
+<br/>
+
+### 🛠️ **[DevSuite](https://dev-suite.vercel.app/)**
+> *Comprehensive suite of 17+ developer tools with 100% Client-Side architecture*
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://dev-suite.vercel.app/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://dev-suite.vercel.app/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dev-suite.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-dev--suite.vercel.app-00f2fe?style=for-the-badge&logo=vercel&logoColor=black)](https://dev-suite.vercel.app/)
+[![GitHub Repo](https://img.shields.io/badge/Repo-DevSuite-181717?style=for-the-badge&logo=github)](https://github.com/UNKNOWN432HZ/DevSuite)
+
+<p align="center">
+🔢 <b>Converters & Decoders</b> • 🔐 <b>Lightweight Cryptography & JWT Client-Side</b> • ⚡ <b>Fast & Private UI</b>
+</p>
+
+---
+
+### 📋 **[SGAQ](https://github.com/UNKNOWN432HZ/SGAQ)**
+> *Attendance and academic management platform with PWA architecture and offline tolerance*
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/UNKNOWN432HZ/SGAQ)
+[![PWA](https://img.shields.io/badge/PWA-Offline_First-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)](https://github.com/UNKNOWN432HZ/SGAQ)
+[![Storage](https://img.shields.io/badge/Storage-IndexedDB-blue?style=for-the-badge)](https://github.com/UNKNOWN432HZ/SGAQ)
+[![GitHub Repo](https://img.shields.io/badge/Repo-SGAQ-181717?style=for-the-badge&logo=github)](https://github.com/UNKNOWN432HZ/SGAQ)
+
+<p align="center">
+📶 <b>Offline-First Resilience</b> • 📊 <b>Real-Time Analytical Metrics</b> • 🔄 <b>Seamless Synchronization</b>
+</p>
+
+---
+
+### 🧩 **[WPI-CORE & DevForge](https://github.com/UNKNOWN432HZ/WPI-CORE)**
+> *Modular framework for workstation provisioning, software bundling, and system orchestration*
+
+[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/UNKNOWN432HZ/WPI-CORE)
+[![Automation](https://img.shields.io/badge/Automation-Workstations-brightgreen?style=for-the-badge&logo=windows)](https://github.com/UNKNOWN432HZ/WPI-CORE)
+[![GitHub Repo](https://img.shields.io/badge/Repo-WPI--CORE-181717?style=for-the-badge&logo=github)](https://github.com/UNKNOWN432HZ/WPI-CORE)
+
+<p align="center">
+⚙️ <b>Automated Provisioning</b> • 🚀 <b>Reproducible Clean Setups</b> • 📦 <b>Modular Architecture</b>
+</p>
+
+---
+
+### 🔬 **[GPU Shader Architecture Research](https://github.com/UNKNOWN432HZ)**
+> *Conceptual framework aimed at optimizing unified shader execution pipelines*
+
+[![Graphics](https://img.shields.io/badge/Graphics-GPU_Shaders-FF6B6B?style=for-the-badge&logo=khronosgroup&logoColor=white)](https://github.com/UNKNOWN432HZ)
+[![GLSL](https://img.shields.io/badge/Pipeline-GLSL_%2F_HLSL-555555?style=for-the-badge)](https://github.com/UNKNOWN432HZ)
+
+<p align="center">
+💡 <b>Compute Efficiency</b> • ⚡ <b>Dispatch Optimization</b> • 🎮 <b>Real-Time Graphics Performance</b>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛠️ **Tech Stack & Tooling**
 
 <br/>
 
@@ -174,7 +282,7 @@ Soy un apasionado desarrollador de software y constructor de sistemas dedicado a
 
 <div align="center">
 
-## 📊 **Actividad & Estadísticas**
+## 📊 **Actividad & Estadísticas | GitHub Analytics**
 
 <br/>
 
@@ -196,7 +304,7 @@ Soy un apasionado desarrollador de software y constructor de sistemas dedicado a
 
 <div align="center">
 
-## 💬 **Conexión & Contacto**
+## 💬 **Conexión & Contacto | Connect & Collaborate**
 
 <br/>
 
@@ -206,6 +314,7 @@ Soy un apasionado desarrollador de software y constructor de sistemas dedicado a
 
 <br/><br/>
 
-> *“El conocimiento es poder, pero compartirlo es libertad. En el mundo tecnológico, cada línea de código es una oportunidad para aprender, construir y crecer juntos.”*
+> *“El conocimiento es poder, pero compartirlo es libertad. En el mundo tecnológico, cada línea de código es una oportunidad para aprender, construir y crecer juntos.”*  
+> *“Knowledge is power, but sharing it is freedom. In tech, every line of code is an opportunity to learn, build, and grow together.”*
 
 </div>
