@@ -39,11 +39,10 @@
 
 ---
 
-<div id="-versión-en-español" align="center">
+<details open id="-versión-en-español">
+<summary><h2 style="display:inline-block"><b>ES</b></h2></summary>
 
-# 🇪🇸
-
-</div>
+<br/>
 
 ## 👤 Sobre Mí
 
@@ -82,7 +81,7 @@ Soy un apasionado desarrollador de software y constructor de sistemas dedicado a
 [![GitHub Repo](https://img.shields.io/badge/Repo-DevSuite-181717?style=for-the-badge&logo=github)](https://github.com/UNKNOWN432HZ/DevSuite)
 
 <p align="center">
-🔢 <b>Conversores & Decodificadores</b> • 🔐 <b>Criptografía & JWT Client-Side</b> • ⚡ <b>Interfaz Reactiva y Privada</b>
+<b>Conversores & Decodificadores</b> • <b>Criptografía & JWT Client-Side</b> • <b>Interfaz Reactiva y Privada</b>
 </p>
 
 ---
@@ -96,7 +95,7 @@ Soy un apasionado desarrollador de software y constructor de sistemas dedicado a
 [![GitHub Repo](https://img.shields.io/badge/Repo-SGAQ-181717?style=for-the-badge&logo=github)](https://github.com/UNKNOWN432HZ/SGAQ)
 
 <p align="center">
-📶 <b>Resiliencia Offline-First</b> • 📊 <b>Métricas Académicas en Tiempo Real</b> • 🔄 <b>Sincronización Automática</b>
+<b>Resiliencia Offline-First</b> • <b>Métricas Académicas en Tiempo Real</b> • <b>Sincronización Automática</b>
 </p>
 
 ---
@@ -109,7 +108,7 @@ Soy un apasionado desarrollador de software y constructor de sistemas dedicado a
 [![GitHub Repo](https://img.shields.io/badge/Repo-WPI--CORE-181717?style=for-the-badge&logo=github)](https://github.com/UNKNOWN432HZ/WPI-CORE)
 
 <p align="center">
-⚙️ <b>Aprovisionamiento Automatizado</b> • 🚀 <b>Setup Instantáneo y Reproducible</b> • 📦 <b>Orquestación Modular</b>
+<b>Aprovisionamiento Automatizado</b> • <b>Setup Instantáneo y Reproducible</b> • <b>Orquestación Modular</b>
 </p>
 
 ---
@@ -121,20 +120,19 @@ Soy un apasionado desarrollador de software y constructor de sistemas dedicado a
 [![GLSL](https://img.shields.io/badge/Pipeline-GLSL_%2F_HLSL-555555?style=for-the-badge)](https://github.com/UNKNOWN432HZ)
 
 <p align="center">
-💡 <b>Eficiencia de Cómputo</b> • ⚡ <b>Optimización de Despacho</b> • 🎮 <b>Rendimiento Gráfico en Tiempo Real</b>
+<b>Eficiencia de Cómputo</b> • <b>Optimización de Despacho</b> • <b>Rendimiento Gráfico en Tiempo Real</b>
 </p>
 
 </div>
 
----
+</details>
 
 <br/>
 
-<div id="-english-version" align="center">
+<details id="-english-version">
+<summary><h2 style="display:inline-block"><b>EN</b></h2></summary>
 
-# EN
-
-</div>
+<br/>
 
 ## 👤 About Me
 
@@ -173,7 +171,7 @@ I am a passionate software developer and systems builder dedicated to crafting h
 [![GitHub Repo](https://img.shields.io/badge/Repo-DevSuite-181717?style=for-the-badge&logo=github)](https://github.com/UNKNOWN432HZ/DevSuite)
 
 <p align="center">
-🔢 <b>Converters & Decoders</b> • 🔐 <b>Lightweight Cryptography & JWT Client-Side</b> • ⚡ <b>Fast & Private UI</b>
+<b>Converters & Decoders</b> • <b>Lightweight Cryptography & JWT Client-Side</b> • <b>Fast & Private UI</b>
 </p>
 
 ---
@@ -187,7 +185,7 @@ I am a passionate software developer and systems builder dedicated to crafting h
 [![GitHub Repo](https://img.shields.io/badge/Repo-SGAQ-181717?style=for-the-badge&logo=github)](https://github.com/UNKNOWN432HZ/SGAQ)
 
 <p align="center">
-📶 <b>Offline-First Resilience</b> • 📊 <b>Real-Time Analytical Metrics</b> • 🔄 <b>Seamless Synchronization</b>
+<b>Offline-First Resilience</b> • <b>Real-Time Analytical Metrics</b> • <b>Seamless Synchronization</b>
 </p>
 
 ---
@@ -200,7 +198,7 @@ I am a passionate software developer and systems builder dedicated to crafting h
 [![GitHub Repo](https://img.shields.io/badge/Repo-WPI--CORE-181717?style=for-the-badge&logo=github)](https://github.com/UNKNOWN432HZ/WPI-CORE)
 
 <p align="center">
-⚙️ <b>Automated Provisioning</b> • 🚀 <b>Reproducible Clean Setups</b> • 📦 <b>Modular Architecture</b>
+<b>Automated Provisioning</b> • <b>Reproducible Clean Setups</b> • <b>Modular Architecture</b>
 </p>
 
 ---
@@ -212,16 +210,20 @@ I am a passionate software developer and systems builder dedicated to crafting h
 [![GLSL](https://img.shields.io/badge/Pipeline-GLSL_%2F_HLSL-555555?style=for-the-badge)](https://github.com/UNKNOWN432HZ)
 
 <p align="center">
-💡 <b>Compute Efficiency</b> • ⚡ <b>Dispatch Optimization</b> • 🎮 <b>Real-Time Graphics Performance</b>
+<b>Compute Efficiency</b> • <b>Dispatch Optimization</b> • <b>Real-Time Graphics Performance</b>
 </p>
 
 </div>
+
+</details>
+
+<br/>
 
 ---
 
 <div align="center">
 
-## 🛠️ **Tech Stack & Tooling**
+## **Tech Stack & Tooling**
 
 <br/>
 
@@ -230,7 +232,7 @@ I am a passionate software developer and systems builder dedicated to crafting h
 
 <br/>
 
-#### 💻 Languages
+#### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -243,7 +245,7 @@ I am a passionate software developer and systems builder dedicated to crafting h
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-#### 🌐 Frameworks & Frontend
+#### Frameworks & Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -251,9 +253,10 @@ I am a passionate software developer and systems builder dedicated to crafting h
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-#### ⚙️ Backend, Data & Storage
+#### Backend, Data & Storage
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -262,12 +265,12 @@ I am a passionate software developer and systems builder dedicated to crafting h
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-#### ⚡ Visual Computing & Graphics
+#### Visual Computing & Graphics
 ![WebGPU](https://img.shields.io/badge/WebGPU-005A9C?style=for-the-badge&logo=w3c&logoColor=white)
 ![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
 ![GLSL](https://img.shields.io/badge/GLSL_%2F_HLSL-555555?style=for-the-badge&logo=opengl&logoColor=white)
 
-#### ☁️ DevOps, Systems & Workflow
+#### DevOps, Systems & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -282,7 +285,7 @@ I am a passionate software developer and systems builder dedicated to crafting h
 
 <div align="center">
 
-## 📊 **Actividad & Estadísticas | GitHub Analytics**
+## **GitHub Analytics**
 
 <br/>
 
@@ -304,17 +307,16 @@ I am a passionate software developer and systems builder dedicated to crafting h
 
 <div align="center">
 
-## 💬 **Conexión & Contacto | Connect & Collaborate**
+## **Connect & Collaborate**
 
 <br/>
 
   [![GitHub](https://img.shields.io/badge/GitHub-UNKNOWN432HZ-black?style=for-the-badge&logo=github)](https://github.com/UNKNOWN432HZ)
-  [![Email](https://img.shields.io/badge/Email-Contacto_Directo-blue?style=for-the-badge&logo=gmail)](mailto:usuario432hz@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-Direct_Contact-blue?style=for-the-badge&logo=gmail)](mailto:usuario432hz@gmail.com)
   [![Repositories](https://img.shields.io/badge/Explorar-Repositorios-007ACC?style=for-the-badge&logo=git)](https://github.com/UNKNOWN432HZ?tab=repositories)
 
 <br/><br/>
 
-> *“El conocimiento es poder, pero compartirlo es libertad. En el mundo tecnológico, cada línea de código es una oportunidad para aprender, construir y crecer juntos.”*  
 > *“Knowledge is power, but sharing it is freedom. In tech, every line of code is an opportunity to learn, build, and grow together.”*
 
 </div>
